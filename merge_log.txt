@@ -1,0 +1,4 @@
+İşlem zamanı: 3.7397789955139 saniye.
+Toplam kullanılan bellek: 43286992 bayt.
+İşlem zamanı: 3.8445649147034 saniye.
+Toplam kullanılan bellek: 43286992 bayt.
